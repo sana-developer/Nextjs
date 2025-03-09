@@ -1,0 +1,4 @@
+Installation:
+npx create-next-app my-new-app
+cd my-new-app
+npm run dev  # Starts the development server
